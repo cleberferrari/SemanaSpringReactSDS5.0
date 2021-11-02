@@ -30,6 +30,7 @@ function App() {
           <DataTable />
         </div>
       </div>
+      
       <Footer /></>
 
   );
